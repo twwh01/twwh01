@@ -4,7 +4,7 @@
 - 🌦️ reconstructing past climates and climate change
 - 🌳 biosphere evolution throughout Earth history
 - 🌍 how understanding past Earth can help us better work with the planet today
-- 🗞️ founder and managing editor of <i>[Open Palaeontology](https://openpalaeo.org)</i>
+- 🗞️ founder and managing editor of <i><a href="https://openpalaeo.org" target="_blank">Open Palaeontology</a></i>
 - 🔬 working to improve the ways we do science
 - 🙋🏻‍♂️ get in touch to discuss new opportunities
 
