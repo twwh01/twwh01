@@ -1,16 +1,13 @@
 ## Hi there 👋
 
-<!--
-**twwh01/twwh01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨🏻‍💻 I’m Tom (he/him), a palaeoclimate data and modelling scientist
+- 🌦️ reconstructing past climates and climate change
+- 🌳 biosphere evolution throughout Earth history
+- 🌍 how understanding past Earth can help us better work with the planet today
+- 🗞️ founder and managing editor of <i>[Open Palaeontology](https://openpalaeo.org)</i>
+- 🔬 working to improve the ways we do science
+- 🙋🏻‍♂️ get in touch to discuss new opportunities
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+    <a href="mailto:twonghearing@gmail.com">email me</a> | <a href="https://twwh01.github.io" target="_blank"> visit my personal website</a> | <a href="https://www.linkedin.com/in/tomwonghearing/" target="_blank"> connect on LinkedIn </a> | <a href="https://scholar.google.com/citations?user=q8QUq0oAAAAJ&hl=en" target="_blank"> browse my publications </a> 
+</p>
