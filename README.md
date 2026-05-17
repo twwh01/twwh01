@@ -5,6 +5,7 @@
 - 🌳 biosphere evolution throughout Earth history
 - 🌍 how understanding past Earth can help us better work with the planet today
 - 🗞️ founder and managing editor of <i><a href="https://openpalaeo.org" target="_blank">Open Palaeontology</a></i>
+- ⌛ beta release of <i><a href="https://019e0240-b468-921d-3452-c68723384f72.share.connect.posit.cloud/" target="_blank">Changing Times</a></i>, a Shiny app for understanding how stratigraphic age models have changed over different iterations; <a href="mailto:twonghearing@gmail.com">please comment</a>!
 - 🔬 working to improve the ways we do science
 - 🙋🏻‍♂️ get in touch to discuss new opportunities
 
